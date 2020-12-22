@@ -1,4 +1,4 @@
-# Alphabot2 Ros Package and Simulator
+# Alphabot2-Pi ROS Package and Simulator
 
 ## Installation and Dependencies
 

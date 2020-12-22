@@ -1,5 +1,7 @@
 # Alphabot2-Pi ROS Package and Simulator
 
+This repo provides a testbed for experimentation and some show-stopper changes may render this build unuseable. Proceed with caution.
+
 ## Installation and Dependencies
 
 - ROS distro: [ROS Kinetic](http://wiki.ros.org/kinetic/Installation/Ubuntu)
